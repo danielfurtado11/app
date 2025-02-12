@@ -268,7 +268,6 @@ st.header("✍🏻 Tarefas Atribuídas", divider="gray")
 # Dicionário de tarefas atribuídas a cada pessoa
 tasks = {
     "André Neiva": [
-        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡️ Agendar a reunião com a Cátia da PBS.",
         "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡️ Trabalhar na melhoria da apresentação dos dados no relatório.",
         "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡️ Garantir que a nova versão do sistema possa ser demonstrada de forma clara na próxima reunião."
     ],
@@ -278,6 +277,7 @@ tasks = {
         "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡️ Trabalhar na estabilidade da plataforma e na integração com diferentes formatos de reunião."
     ],
     "Diogo Feio": [
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡️ Agendar a reunião com a Cátia da PBS.",
         "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡️ Auxiliar na identificação de potenciais parceiros e utilizadores para testar o sistema.",
         "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡️ Acompanhar a evolução do projeto e fornecer sugestões de aplicações práticas para diferentes áreas.",
     ],
